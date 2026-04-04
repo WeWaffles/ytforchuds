@@ -1,14 +1,17 @@
 {
+    "name":  "My LiveContainer Source",
+    "identifier":  "com.mylcsource",
+    "sourceURL":  "https://WeWaffles.github.io/ytforchuds/apps.json",
     "apps":  [
                  {
+                     "name":  "uYouPlus",
+                     "bundleIdentifier":  "com.google.ios.youtube",
                      "developerName":  "mlclmtan",
                      "subtitle":  "YouTube with uYou+ tweaks",
+                     "localizedDescription":  "Feature-rich YouTube modification for non-jailbroken users.",
                      "iconURL":  "https://raw.githubusercontent.com/mlclmtan/uYouPlus/main/.github/assets/icon.png",
-                     "category":  "Entertainment",
-                     "bundleIdentifier":  "com.google.ios.youtube",
-                     "name":  "uYouPlus",
                      "tintColor":  "ff0000",
-                     "localizedDescription":  "",
+                     "category":  "Entertainment",
                      "versions":  [
                                       {
                                           "date":  "2025-03-16T07:15:38Z",
@@ -38,8 +41,5 @@
                                       }
                                   ]
                  }
-             ],
-    "sourceURL":  "https://WeWaffles.github.io/ytforchuds/apps.json",
-    "name":  "App Source For My Chuds",
-    "identifier":  "com.wewaffles"
+             ]
 }

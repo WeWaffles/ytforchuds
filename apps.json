@@ -18,6 +18,25 @@
                                           "size":  125447346
                                       }
                                   ]
+                 },
+                 {
+                     "name":  "Asscheeks",
+                     "bundleIdentifier":  "com.assdroid.inc.Asscheeks",
+                     "developerName":  "Samsung",
+                     "subtitle":  "yummy android asscheeks",
+                     "localizedDescription":  "The new hit Android asscheek touching game that\u0027s been taking the country by storm.",
+                     "iconURL":  "https://raw.githubusercontent.com/WeWaffles/ytforchuds/refs/heads/main/asscheeks.png",
+                     "tintColor":  "93E9BE",
+                     "category":  "MUST haves",
+                     "versions":  [
+                                      {
+                                          "date":  "2026-04-04T02:15:45Z",
+                                          "minOSVersion":  "15.0",
+                                          "downloadURL":  "https://github.com/WeWaffles/ytforchuds/releases/download/androidasscheeks/Asscheeks.ipa",
+                                          "version":  "androidasscheeks",
+                                          "size":  32896174
+                                      }
+                                  ]
                  }
              ],
     "sourceURL":  "https://WeWaffles.github.io/ytforchuds/apps.json",

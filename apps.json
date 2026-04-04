@@ -1,0 +1,26 @@
+{
+    "apps":  [
+                 {
+                     "developerName":  "mlclmtan",
+                     "subtitle":  "YouTube with uYou+ tweaks",
+                     "iconURL":  "https://raw.githubusercontent.com/mlclmtan/uYouPlus/main/.github/assets/icon.png",
+                     "category":  "Entertainment",
+                     "bundleIdentifier":  "com.google.ios.youtube",
+                     "name":  "uYouPlus",
+                     "tintColor":  "ff0000",
+                     "localizedDescription":  "",
+                     "versions":  [
+                                      {
+                                          "date":  "2025-03-16T07:15:38Z",
+                                          "minOSVersion":  "14.0",
+                                          "downloadURL":  "https://github.com/mlclmtan/uYouPlus/releases/download/v20.10.4-3.0.4-%2811%29/uYouPlus_20.10.4-3.0.4.ipa",
+                                          "version":  "20.10.4-3.0.4-(11)",
+                                          "size":  125447346
+                                      }
+                                  ]
+                 }
+             ],
+    "sourceURL":  "https://WeWaffles.github.io/ytforchuds/apps.json",
+    "name":  "My LiveContainer Source",
+    "identifier":  "com.mylcsource"
+}

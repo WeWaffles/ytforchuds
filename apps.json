@@ -52,11 +52,11 @@
                      "category":  "Utilities",
                      "versions":  [
                                       {
-                                          "date":  "2026-03-30T17:53:28Z",
+                                          "date":  "2026-04-04T03:30:18Z",
                                           "minOSVersion":  "17.4",
-                                          "downloadURL":  "https://github.com/StephenDev0/StikDebug/releases/download/3.1.0/StikDebug-3.1.0.ipa",
-                                          "version":  "3.1.0",
-                                          "size":  10889554
+                                          "downloadURL":  "https://github.com/StephenDev0/StikDebug/releases/download/3.1.1/StikDebug-3.1.1.ipa",
+                                          "version":  "3.1.1",
+                                          "size":  10973374
                                       }
                                   ]
                  },

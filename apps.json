@@ -23,6 +23,44 @@
                                   ]
                  },
                  {
+                     "name":  "Geode",
+                     "bundleIdentifier":  "com.geode.launcher",
+                     "developerName":  "Geode SDK",
+                     "subtitle":  "Geometry Dash mod loader",
+                     "localizedDescription":  "The mod loader and launcher for Geometry Dash mods via Geode.",
+                     "iconURL":  "https://raw.githubusercontent.com/geode-sdk/ios-launcher/main/Resources/AppIcon.png",
+                     "tintColor":  "4caf7d",
+                     "category":  "Games",
+                     "versions":  [
+                                      {
+                                          "date":  "2026-04-01T07:09:04Z",
+                                          "minOSVersion":  "14.0",
+                                          "downloadURL":  "https://github.com/geode-sdk/ios-launcher/releases/download/v1.5.4/com.geode.launcher_1.5.4.ipa",
+                                          "version":  "1.5.4",
+                                          "size":  13242128
+                                      }
+                                  ]
+                 },
+                 {
+                     "name":  "StikDebug",
+                     "bundleIdentifier":  "com.stik.stikdebug",
+                     "developerName":  "StephenDev",
+                     "subtitle":  "On-device debugger and developer toolbox.",
+                     "localizedDescription":  "An on-device debugger and developer toolbox for iOS versions 17.4+ powered by idevice.  Note: Requires LocalDevVPN, cannot be natively used inside LiveContainer to enable JIT for the same LiveContainer.",
+                     "iconURL":  "https://raw.githubusercontent.com/WeWaffles/ytforchuds/refs/heads/main/StikJIT.png",
+                     "tintColor":  "3B86F7",
+                     "category":  "Utilities",
+                     "versions":  [
+                                      {
+                                          "date":  "2026-03-30T17:53:28Z",
+                                          "minOSVersion":  "17.4",
+                                          "downloadURL":  "https://github.com/StephenDev0/StikDebug/releases/download/3.1.0/StikDebug-3.1.0.ipa",
+                                          "version":  "3.1.0",
+                                          "size":  10889554
+                                      }
+                                  ]
+                 },
+                 {
                      "name":  "Asscheeks",
                      "bundleIdentifier":  "com.assdroid.inc.Asscheeks",
                      "developerName":  "Samsung",

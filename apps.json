@@ -28,7 +28,7 @@
                      "developerName":  "Geode SDK",
                      "subtitle":  "Geometry Dash mod loader",
                      "localizedDescription":  "The mod loader and launcher for Geometry Dash mods via Geode.",
-                     "iconURL":  "https://raw.githubusercontent.com/geode-sdk/ios-launcher/main/Resources/AppIcon.png",
+                     "iconURL":  "https://raw.githubusercontent.com/WeWaffles/ytforchuds/refs/heads/main/geode.png",
                      "tintColor":  "4caf7d",
                      "category":  "Games",
                      "versions":  [

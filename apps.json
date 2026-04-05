@@ -97,6 +97,25 @@
                                           "size":  55767685
                                       }
                                   ]
+                 },
+                 {
+                     "name":  "soylent app",
+                     "bundleIdentifier":  "com.bigsoylent.soylentapp",
+                     "developerName":  "Big Soylent",
+                     "subtitle":  "Big soylent presents reddit (soylent)",
+                     "localizedDescription":  "soy",
+                     "iconURL":  "https://raw.githubusercontent.com/WeWaffles/ytforchuds/refs/heads/main/soylent.png",
+                     "tintColor":  "FFFFFF",
+                     "category":  "Soylent",
+                     "versions":  [
+                                      {
+                                          "date":  "2026-04-05T03:44:16Z",
+                                          "minOSVersion":  "13.0",
+                                          "downloadURL":  "https://github.com/WeWaffles/ytforchuds/releases/download/Soylent/soy.ipa",
+                                          "version":  "Soylent",
+                                          "size":  170090873
+                                      }
+                                  ]
                  }
              ]
 }

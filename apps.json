@@ -78,6 +78,25 @@
                                           "size":  32896174
                                       }
                                   ]
+                 },
+                 {
+                     "name":  "Z-Smashh",
+                     "bundleIdentifier":  "com.thergdteam.zsmash",
+                     "developerName":  "The RGD Team",
+                     "subtitle":  "zombie smash but good",
+                     "localizedDescription":  "Zombie Smash remade in the modern day",
+                     "iconURL":  "https://raw.githubusercontent.com/WeWaffles/ytforchuds/refs/heads/main/zsmash.png",
+                     "tintColor":  "93E9BE",
+                     "category":  "Games",
+                     "versions":  [
+                                      {
+                                          "date":  "2026-04-05T02:47:26Z",
+                                          "minOSVersion":  "13.0",
+                                          "downloadURL":  "https://github.com/WeWaffles/ytforchuds/releases/download/z-smash/Z-Smash.ipa",
+                                          "version":  "z-smash",
+                                          "size":  55767685
+                                      }
+                                  ]
                  }
              ]
 }
